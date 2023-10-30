@@ -1,6 +1,6 @@
 package mypackage6;
 
-
+/* Block Comment added */
 
 public class MyClass6
 
